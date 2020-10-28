@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetB1_15 Pin=P1-1
+Removed Pin From Net: NetName=NetB1_14 Pin=P1-2
+Removed Pin From Net: NetName=NetB1_13 Pin=P1-3
+Removed Pin From Net: NetName=NetB1_12 Pin=P1-4
+Removed Pin From Net: NetName=NetB1_10 Pin=P1-5
+Removed Pin From Net: NetName=5V Pin=P1-6
+Removed Pin From Net: NetName=NetB1_9 Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=LED_B Pin=P3-1
+Removed Pin From Net: NetName=LED_A Pin=P3-2
+Removed Pin From Net: NetName=LED_G Pin=P3-3
+Removed Pin From Net: NetName=LED_F Pin=P3-4
+Removed Pin From Net: NetName=LED_E Pin=P3-5
+Removed Pin From Net: NetName=LED_D Pin=P3-6
+Removed Pin From Net: NetName=LED_C Pin=P3-7
+Removed Member From Class: ClassName=simple music keyboard Member=P10
+Removed Member From Class: ClassName=simple music keyboard Member=P11
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=H1 NewDesignator=H4
+Change Component Designator: OldDesignator=H2 NewDesignator=H1
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H3
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Change Component Designator: OldDesignator=P6 NewDesignator=P4
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Change Component Designator: OldDesignator=P8 NewDesignator=P6
+Change Component Designator: OldDesignator=P9 NewDesignator=P7
+Change Component Designator: OldDesignator=P10 NewDesignator=P8
+Change Component Designator: OldDesignator=P11 NewDesignator=P9
+Added Component: Designator=J1(61300811821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/61300811821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Socket Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300811821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_15 Pin=J1-1
+Added Pin To Net: NetName=NetB1_14 Pin=J1-2
+Added Pin To Net: NetName=NetB1_13 Pin=J1-3
+Added Pin To Net: NetName=NetB1_12 Pin=J1-4
+Added Pin To Net: NetName=NetB1_10 Pin=J1-5
+Added Pin To Net: NetName=5V Pin=J1-6
+Added Pin To Net: NetName=NetB1_9 Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Member To Class: ClassName=simple music keyboard Member=Component C18 Cap-100nF-50V-0805
+Added Member To Class: ClassName=simple music keyboard Member=Component J1 61300811821
+Added Room: Name=simple music keyboard

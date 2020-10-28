@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=NetB1_15 Pin=P1-2
+Removed Pin From Net: NetName=NetB1_14 Pin=P1-3
+Removed Pin From Net: NetName=NetB1_13 Pin=P1-4
+Removed Pin From Net: NetName=NetB1_12 Pin=P1-5
+Removed Pin From Net: NetName=NetB1_10 Pin=P1-6
+Removed Pin From Net: NetName=5V Pin=P1-8
+Added Pin To Net: NetName=NetB1_15 Pin=P1-1
+Added Pin To Net: NetName=NetB1_14 Pin=P1-2
+Added Pin To Net: NetName=NetB1_13 Pin=P1-3
+Added Pin To Net: NetName=NetB1_12 Pin=P1-4
+Added Pin To Net: NetName=NetB1_10 Pin=P1-5
+Added Pin To Net: NetName=5V Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Room: Name=simple music keyboard

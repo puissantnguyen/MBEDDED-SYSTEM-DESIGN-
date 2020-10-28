@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BT_SELECT Pin=B1-5
+Removed Pin From Net: NetName=BT_DOWN Pin=B1-6
+Added Pin To Net: NetName=BT_DOWN Pin=B1-5
+Added Pin To Net: NetName=BT_SELECT Pin=B1-6
+Added Room: Name=simple music keyboard

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetB1_35 Pin=B1-35
+Removed Pin From Net: NetName=NetB1_36 Pin=IC2-5
+Removed Pin From Net: NetName=NetB1_35 Pin=IC2-6
+Removed Pin From Net: NetName=NetB1_35 Pin=R7-1
+Removed Pin From Net: NetName=NetB1_36 Pin=R8-1
+Added Component: Designator=H3(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H5(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetB1_35 Pin=B1-37
+Added Pin To Net: NetName=NetB1_35 Pin=IC2-5
+Added Pin To Net: NetName=NetB1_36 Pin=IC2-6
+Added Pin To Net: NetName=NetB1_36 Pin=R7-1
+Added Pin To Net: NetName=NetB1_35 Pin=R8-1
+Change Net Name : Old Net Name=NetB1_35 New Net Name=NetB1_37
+Added Member To Class: ClassName=simple music keyboard Member=Component H3 Hole
+Added Member To Class: ClassName=simple music keyboard Member=Component H5 Hole
+Added Room: Name=simple music keyboard

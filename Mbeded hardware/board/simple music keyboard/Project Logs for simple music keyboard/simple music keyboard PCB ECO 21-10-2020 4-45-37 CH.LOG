@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP-SM-AL-SIZE-D-D6L6 New Footprint=CP1/2
+Change Component Comment : Designator=C1 Old Comment=Cap-Al-100uF-16V-D6L5 New Comment=Cap Pol
+Change component parameters: Designator = "C1"; Footprint = "CP1/2"; UniqueID = "\AMESFHCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Room: Name=simple music keyboard

@@ -1,0 +1,11 @@
+Added Component: Designator=XH B1(XH B7B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LED_C Pin=XH B1-1
+Added Pin To Net: NetName=LED_D Pin=XH B1-2
+Added Pin To Net: NetName=LED_E Pin=XH B1-3
+Added Pin To Net: NetName=LED_F Pin=XH B1-4
+Added Pin To Net: NetName=LED_G Pin=XH B1-5
+Added Pin To Net: NetName=LED_A Pin=XH B1-6
+Added Pin To Net: NetName=LED_B Pin=XH B1-7
+Added Member To Class: ClassName=simple music keyboard Member=Component XH B1 H?
+Added Room: Name=simple music keyboard
